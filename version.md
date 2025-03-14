@@ -1,6 +1,21 @@
 
 
 
+# Versión 3: Ejecución - 02 noviembre de 2024
+
+## Descripción
+En esta fase se desarrolla e implementa el software del sistema Fitness Restaurant, incluyendo backend, frontend, bases de datos y pruebas.
+
+## Objetivos
+- Implementar las interfaces de usuario utilizando HTML, CSS y JavaScript.
+- Desarrollar la lógica backend con Node.js y Django.
+- Crear y estructurar la base de datos en MySQL (modelo físico).
+- Implementar una base de datos NoSQL en MongoDB.
+- Configurar y gestionar el control de versiones en Git.
+- Desarrollar la versión móvil de la aplicación.
+- Elaborar un plan de pruebas y ejecutar los casos de prueba.
+- Generar un informe con los resultados de las pruebas realizadas.
+
 # Versión 2: Diseño - 02 de agosto de 2024
 
 ##  Descripción
