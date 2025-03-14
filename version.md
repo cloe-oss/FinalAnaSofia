@@ -1,3 +1,17 @@
+
+
+
+# Versión 2: Diseño - 02 de agosto de 2024
+
+##  Descripción
+corresponde a la fase de diseño del proyecto **Fitness Restaurant**. En esta etapa, se definen la arquitectura del sistema, los wireframes y la experiencia de usuario.
+
+## Objetivos
+- Definir la estructura del sistema y los componentes clave.
+- Diseñar los wireframes y prototipos de las interfaces.
+- Establecer la base de datos y los modelos de datos.
+- Evaluar tecnologías y herramientas adecuadas para el desarrollo.
+
 # Versión 1: Análisis - 22 de marzo de 2025
 
 ## Descripción
